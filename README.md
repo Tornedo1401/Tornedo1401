@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tornedo1401
-- 👀 I’m interested in infomration technology, Netwroking, hacking
+- 👀 I’m interested in infomration technology, Netwroking, hacking and website development.
 - 🌱 I’m currently learning in Information Technology
-- 💞️ I’m looking to collaborate on web devlopment, programming language.
+- 💞️ I’m looking to collaborate on web devlopment,
 - 📫 How to reach me through Email: vivekmakwana848350@gmail.com
 
 <!---
